@@ -1,0 +1,39 @@
+body {
+    background-color: #abc3b5;
+    }
+    
+    #cabeçalho, #rodape {
+        text-align: center;
+        color:#3e5749;
+    }
+
+    #conteudo {
+        text-align: center;
+        color:#3e5749;
+        font-size: medium;
+    }
+
+    #imagem {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 30%;
+    }
+
+    #icone {
+        width:30px;
+    }
+
+a {
+    color:#3e5749;
+    background-color: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline-block;
+
+}
